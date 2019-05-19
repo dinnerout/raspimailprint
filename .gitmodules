@@ -1,0 +1,3 @@
+[submodule "thermal-print"]
+	path = thermal-print
+	url = git://github.com/luopio/py-thermal-printer.git
