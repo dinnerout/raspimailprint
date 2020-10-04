@@ -14,8 +14,7 @@ Lets update the current software to the lastest version:
 
 Because I used an old mail script written in PHP we need PHP and the IMAP extension as well:
 
-		sudo apt-get install php5
-		sudo apt-get install php5-imap
+		sudo apt-get install php php-imap python-serial git -y
 
 All the code is available via github. So just checkout the code by using:
 		
